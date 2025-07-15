@@ -2,9 +2,9 @@
   "name": "temporal-theme-ui",
   "displayName": "Temporal Theme UI",
   "description": "A beautiful dark and light theme pair for VS Code",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "JuanCarlosMigliavacca",
-  "icon": "/assets/temporal-mini.png",
+  "icon": "/assets/temporal-mini-light.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/elbrodelche/temporal-theme.git"
