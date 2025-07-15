@@ -1,6 +1,6 @@
 {
-  "name": "temporal-theme",
-  "displayName": "temporal theme",
+  "name": "temporal-theme-ui",
+  "displayName": "Temporal Theme UI",
   "description": "Just a nice theme for VS Code",
   "version": "0.0.1",
   "publisher": "JuanCarlosMigliavacca",
@@ -34,7 +34,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Temporal Theme",
+        "label": "Temporal Theme UI",
         "uiTheme": "vs-dark",
         "path": "./themes/temporal-dark-theme.json"
       }
