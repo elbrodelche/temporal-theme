@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://github.com/elbrodelche"><img src="https://i.imgur.com/KEiNKpz.png" alt="Temporal Theme" width="250"></a>
+  <a href="http://github.com/elbrodelche"><img src="https://i.imgur.com/wpdsNF8.png" alt="Temporal Theme" width="250"></a>
   <br>
 Temporal Theme
   <br>
@@ -22,26 +22,30 @@ Temporal Theme
 </div>
 
 
-A modern, elegant dark theme for Visual Studio Code that combines deep blues with vibrant accents for an immersive coding experience.
+A modern, elegant theme pair for Visual Studio Code that includes both dark and light variants, combining sophisticated color palettes with vibrant accents for an immersive coding experience.
 
 ## ✨ Features
 
-- **Modern Dark Design**: Built on a sophisticated slate color palette with deep blue backgrounds
-- **Excellent Contrast**: Carefully chosen colors ensure optimal readability and reduced eye strain
+- **Dual Theme Support**: Complete dark and light theme variants for any preference or lighting condition
+- **Modern Design**: Built on sophisticated color palettes with carefully chosen backgrounds
+- **Excellent Contrast**: Optimized colors ensure optimal readability and reduced eye strain in both themes
 - **Vibrant Syntax Highlighting**: Distinctive colors for different code elements that enhance code comprehension
 - **Consistent UI**: Unified color scheme across all VS Code interface elements
 - **Developer-Focused**: Designed specifically for long coding sessions with attention to visual comfort
 
-[![preview](https://i.imgur.com/GL8T6lt.png)]
-
-## 🎨 Color Palette
-
-### Core Colors
+## � Dark Theme
 
 - **Primary Background**: `#0F172A` (Deep Slate)
 - **Secondary Background**: `#1E293B` (Slate 800)
 - **Accent Color**: `#3B82F6` (Blue 500)
 - **Text**: `#F8FAFC` (Slate 50)
+
+## ☀️ Light Theme
+
+- **Primary Background**: `#FFFFFF` (White)
+- **Secondary Background**: `#F8FAFC` (Slate 50)
+- **Accent Color**: `#2563EB` (Blue 600)
+- **Text**: `#0F172A` (Deep Slate)
 
 ### Syntax Highlighting
 
@@ -74,11 +78,13 @@ A modern, elegant dark theme for Visual Studio Code that combines deep blues wit
 1. Open VS Code
 2. Press `Ctrl+Shift+P` / `Cmd+Shift+P`
 3. Type "Preferences: Color Theme"
-4. Select "Temporal Theme"
+4. Choose from:
+   - **Temporal Theme Dark** - For dark environments
+   - **Temporal Theme Light** - For bright environments
 
 ## 📸 Preview
 
-The theme provides excellent syntax highlighting for various programming languages including:
+Both themes provide excellent syntax highlighting for various programming languages including:
 
 - JavaScript/TypeScript
 - Python

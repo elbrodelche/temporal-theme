@@ -1,8 +1,8 @@
 {
   "name": "temporal-theme-ui",
   "displayName": "Temporal Theme UI",
-  "description": "Just a nice theme for VS Code",
-  "version": "0.0.2",
+  "description": "A beautiful dark and light theme pair for VS Code",
+  "version": "0.1.0",
   "publisher": "JuanCarlosMigliavacca",
   "icon": "/assets/temporal-mini.png",
   "repository": {
@@ -14,6 +14,7 @@
     "vscode",
     "theme",
     "dark",
+    "light",
     "color-theme",
     "ui",
     "design",
@@ -34,9 +35,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Temporal Theme UI",
+        "label": "Temporal Theme Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/temporal-dark-theme.json"
+      },
+      {
+        "label": "Temporal Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/temporal-light-theme.json"
       }
     ]
   }
