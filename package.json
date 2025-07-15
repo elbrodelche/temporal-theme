@@ -1,0 +1,43 @@
+{
+  "name": "temporal-theme",
+  "displayName": "temporal theme",
+  "description": "Just a nice theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "JuanCarlosMigliavacca",
+  "icon": "/assets/temporal-mini.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elbrodelche/temporal-theme.git"
+  },
+    "license": "MIT",
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "color-theme",
+    "ui",
+    "design",
+    "coding",
+    "developer",
+    "productivity",
+    "temporal",
+    "migliavacca",
+    "jcmigliavacca",
+    "elbrodelche"
+  ],
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Temporal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/temporal-dark-theme.json"
+      }
+    ]
+  }
+}
