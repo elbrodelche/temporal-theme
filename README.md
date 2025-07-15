@@ -32,6 +32,8 @@ A modern, elegant dark theme for Visual Studio Code that combines deep blues wit
 - **Consistent UI**: Unified color scheme across all VS Code interface elements
 - **Developer-Focused**: Designed specifically for long coding sessions with attention to visual comfort
 
+[![preview](https://i.imgur.com/GL8T6lt.png)]
+
 ## 🎨 Color Palette
 
 ### Core Colors
