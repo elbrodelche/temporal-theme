@@ -21,7 +21,6 @@ Temporal Theme
   </a>
 </div>
 
-
 A modern, elegant theme pair for Visual Studio Code that includes both dark and light variants, combining sophisticated color palettes with vibrant accents for an immersive coding experience.
 
 ## ✨ Features
@@ -40,12 +39,18 @@ A modern, elegant theme pair for Visual Studio Code that includes both dark and 
 - **Accent Color**: `#3B82F6` (Blue 500)
 - **Text**: `#F8FAFC` (Slate 50)
 
+![dark example](https://i.imgur.com/5zTUQzc.png)
+
 ## ☀️ Light Theme
 
 - **Primary Background**: `#FFFFFF` (White)
 - **Secondary Background**: `#F8FAFC` (Slate 50)
 - **Accent Color**: `#2563EB` (Blue 600)
 - **Text**: `#0F172A` (Deep Slate)
+
+![light example](https://i.imgur.com/UAYHdq8.png)
+
+
 
 ### Syntax Highlighting
 
